@@ -4,9 +4,11 @@ Raspberry Pi HAT for the [SIP (Smart Irrigation Program)](https://github.com/Dan
 
 ## Features
 
-- XAIO ESP32C3 module for flow sensor monitoring
-- Designed to interface with SIP irrigation controller
-- Communicates flow sensor data via UART
+- Designed to interface with SIP irrigation controller on Raspberry Pi
+- Outputs for relay control of up to 16 stations with 74HC595 output header for more
+- XAIO ESP32C3 module for flow sensor monitoring with inputs for hall flow sensor
+- Communicates flow sensor data to Pi via UART
+- 5v I2c headers. Great for LCD plugin.
 
 ## Hardware
 
@@ -27,5 +29,5 @@ See `SPI_Hat.csv` for the complete BOM.
 ## Related Projects
 
 - [SIP Irrigation Controller](https://github.com/Dan-in-CA/SIP)
-- [SIP Plugins](https://github.com/IMHarris/sip_plugins_iansfork)
+- [SIP Plugins](https://github.com/Dan-in-CA/sip_plugins)
 - [ESP32C3 Flow Sensor Firmware](https://github.com/IMHarris/flow-sensor-esp32)
