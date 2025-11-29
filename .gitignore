@@ -1,0 +1,30 @@
+# KiCad temporary files
+*-backups/
+*-bak
+*.bak
+*.bck
+*-cache.lib
+*-rescue.lib
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+fp-info-cache
+auto_saved_files/
+
+# Gerber export folder (optional - you may want to version these)
+# Gerber/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor files
+*~
+*.swp
+*.swo
