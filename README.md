@@ -13,9 +13,9 @@ Raspberry Pi HAT for the [SIP (Smart Irrigation Program)](https://github.com/Dan
 ## Hardware
 
 This project contains KiCad 7+ design files:
-- `SPI_Hat.kicad_sch` - Schematic
-- `SPI_Hat.kicad_pcb` - PCB layout
-- `SPI_Hat.kicad_pro` - Project file
+- `SIP_Hat.kicad_sch` - Schematic
+- `SIP_Hat.kicad_pcb` - PCB layout
+- `SIP_Hat.kicad_pro` - Project file
 - `Gerber/` - Manufacturing files
 
 ## Firmware
@@ -24,7 +24,7 @@ The ESP32C3 firmware is available in the companion repository: [flow-sensor-esp3
 
 ## Bill of Materials
 
-See `SPI_Hat.csv` for the complete BOM.
+See `SIP_Hat.csv` for the complete BOM.
 
 ## Related Projects
 

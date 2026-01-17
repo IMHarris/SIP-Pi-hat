@@ -1,0 +1,12 @@
+Plotted to '/Users/ianharris/Tech Projects/KiCad SPI Hat/SIP_Hat/Gerber/SIP_Hat-F_Cu.gbr'.
+Plotted to '/Users/ianharris/Tech Projects/KiCad SPI Hat/SIP_Hat/Gerber/SIP_Hat-B_Cu.gbr'.
+Plotted to '/Users/ianharris/Tech Projects/KiCad SPI Hat/SIP_Hat/Gerber/SIP_Hat-F_Paste.gbr'.
+Plotted to '/Users/ianharris/Tech Projects/KiCad SPI Hat/SIP_Hat/Gerber/SIP_Hat-B_Paste.gbr'.
+Plotted to '/Users/ianharris/Tech Projects/KiCad SPI Hat/SIP_Hat/Gerber/SIP_Hat-F_Silkscreen.gbr'.
+Plotted to '/Users/ianharris/Tech Projects/KiCad SPI Hat/SIP_Hat/Gerber/SIP_Hat-B_Silkscreen.gbr'.
+Plotted to '/Users/ianharris/Tech Projects/KiCad SPI Hat/SIP_Hat/Gerber/SIP_Hat-F_Mask.gbr'.
+Plotted to '/Users/ianharris/Tech Projects/KiCad SPI Hat/SIP_Hat/Gerber/SIP_Hat-B_Mask.gbr'.
+Plotted to '/Users/ianharris/Tech Projects/KiCad SPI Hat/SIP_Hat/Gerber/SIP_Hat-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/ianharris/Tech Projects/KiCad SPI Hat/SIP_Hat/Gerber/SIP_Hat-job.gbrjob'.
+Info: Done.
+Info: Done.
